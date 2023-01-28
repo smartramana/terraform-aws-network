@@ -31,3 +31,4 @@ go test -v -run TestTerraformAwsNetworkExample
 cp tests/aws-provider-localstack.tf tests/example/test-provider.tf
 terraform test
 ```
+
